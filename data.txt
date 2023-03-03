@@ -1,0 +1,1 @@
+{"184399632405757961":{"threshold":0.009,"alerted":false,"price":0.0093},"214641025803616258":{"threshold":0.0081,"alerted":false,"price":0.008834}}
